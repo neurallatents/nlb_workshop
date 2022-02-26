@@ -6,8 +6,10 @@ The resources are listed with their contact, who you can find on the NLB slack o
 ## Resources
 - Opening welcome (Joel Ye)
   - [Slides](https://docs.google.com/presentation/d/1lQ9EwHJ7DAFw49nUAtYj3c2gf-gwalXiD1agKUC4SzA/edit?usp=sharing)
+  - [AE workshop reimbursement](https://docs.google.com/forms/d/e/1FAIpQLSdEPy5izEzPvPxOEKOp01mpm8xsdtHG3jnbtXlafFTiqVCmdA/viewform)
+  - [AE Team grant](https://docs.google.com/forms/d/e/1FAIpQLScDi7aKF_2G5HcWVFmQC9ImmNhtNnyCN0C-AKNMBNj9Xo_jZw/viewform)
 - NLB Technical walkthrough (Felix Pei)
-  - [Overview](https://github.com/neurallatents/nlb_workshop/tree/main/nlb_technical)
+  - [Overview](https://github.com/neurallatents/nlb_workshop/blob/main/nlb_technical/nlb_technical_walkthrough.ipynb)
 - Pytorch Lightning (Andrew Sedler, Chris Versteeg)
   - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/pytorch_lightning.pptx) and [code](https://github.com/arsedler9/nlb-lightning)
 - Exploring latents with LFADS (Yahia Ali)

@@ -1,7 +1,7 @@
 # NLB Workshop Resources
 
 This repository contains links to resources created for the Neural Latents Benchmark Workshop.
-The resources are listed with their contact, who you can find on the NLB slack or during the Gather town poster session! 
+The resources are listed with their contact, who you can find on the NLB slack or during the Gather town poster session!
 
 ## Resources
 - Opening welcome (Joel Ye)
@@ -11,11 +11,11 @@ The resources are listed with their contact, who you can find on the NLB slack o
 - NLB Technical walkthrough (Felix Pei)
   - [Overview](https://github.com/neurallatents/nlb_workshop/blob/main/nlb_technical/nlb_technical_walkthrough.ipynb)
 - Pytorch Lightning (Andrew Sedler, Chris Versteeg)
-  - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/pytorch_lightning.pptx) and [code](https://github.com/arsedler9/nlb-lightning)
+  - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/pytorch_lightning.pdf) and [code](https://github.com/arsedler9/nlb-lightning)
 - Exploring latents with LFADS (Yahia Ali)
   - [Overview](https://github.com/snel-repo/lfads-tutorial/blob/main/lfads_tutorial.ipynb)
 - Phase 1 Model: AESMTE3 (AE Studio)
-  - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/AE%20Studio%20-%20NLB%202022%20Workshop.pdf), and [code](https://github.com/agencyenterprise/ae-nlb-2021)
+  - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/ae_nlb.pdf), and [code](https://github.com/agencyenterprise/ae-nlb-2021)
 - Phase 1 Model: iLQR-VAE (Marine Schimel)
   - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/ilqr_vae_demo.md), code in docker as described in overview.
 - Phase 1 Model: MINT (Sean Perkins)

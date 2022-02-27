@@ -21,7 +21,7 @@ The resources are listed with their contact, who you can find on the NLB slack o
 - Phase 1 Model: MINT (Sean Perkins)
   - [Overview](https://github.com/neurallatents/nlb_workshop_resources/blob/main/MINT.pdf), and [video](https://www.youtube.com/watch?v=zJhTOjtBciU), code not available at this time.
 - Phase 1 Baseline: NDT (Joel Ye)
-  - [Overview](https://docs.google.com/presentation/d/1YVyJVMUMNWx-yJ00Pe7H71Ie2Qwjd7vxMBiVg5W-BoE/edit#slide=id.gbb5774bc20_0_97) and [code](https://github.com/snel-repo/neural-data-transformers)
+  - [Overview](https://docs.google.com/presentation/d/1YVyJVMUMNWx-yJ00Pe7H71Ie2Qwjd7vxMBiVg5W-BoE/edit?usp=sharing) and [code](https://github.com/snel-repo/neural-data-transformers)
 
 ## Schedule for Workshop Day (2/27, in Eastern Time)
 - 12-12:30PM: Opening (Gather presentation room)

@@ -23,6 +23,10 @@ The resources are listed with their contact, who you can find on the NLB slack o
 - Phase 1 Baseline: NDT (Joel Ye)
   - [Overview](https://docs.google.com/presentation/d/1YVyJVMUMNWx-yJ00Pe7H71Ie2Qwjd7vxMBiVg5W-BoE/edit?usp=sharing) and [code](https://github.com/snel-repo/neural-data-transformers)
 
+## Recordings
+- [Opening Talks](https://youtu.be/Tu07Bh7Nhcs): Welcome (Joel Ye), NLB Technical Walkthrough (Felix Pei), Pytorch Lightning (Andrew Sedler, Chris Versteeg)
+- [Model Blitz Talks](https://youtu.be/a_wzMx1IRz0): iLQR-VAE (Marine Schimel), MINT (Sean Perkins), AESMTE3 (AE Studio)
+
 ## Schedule for Workshop Day (2/27, in Eastern Time)
 - 12-12:30PM: Opening (Gather presentation room)
 - 12:30-12:45PM: Ramp-up with pytorch lightning (Gather presentation room)
